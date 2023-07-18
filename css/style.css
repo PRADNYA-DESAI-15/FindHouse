@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header img{
+    width: 30px;
+    height: 30px;
+
+}
+
+.img1{
+    height: 550px;
+    background-image: url(../image/background/img1.jpg);
+    background-size: cover;
+    
+}
+
+.img2{
+    width: 30px;
+    height: 30px;
+}
+
+.img3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(219, 154, 154);
+    border-radius: 50px;
+}
+
+.img3:hover{
+    background-color: rgb(233, 32, 32);
+}
+
+.bg{
+    background-color: rgb(247, 241, 241);
+}
+
+.logo{
+    width: 120px;
+    height: 80px;
+}
+
+
+.btn1{
+    background-color: rgb(219, 154, 154);
+}
+
+.bg2{
+    background-color: rgb(23, 23, 65);
+}
+
+.bg3{
+    background-color: rgb(10, 10, 44);
+}
